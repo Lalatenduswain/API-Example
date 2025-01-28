@@ -53,8 +53,8 @@ This repository contains a basic API management system that enables user data re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/Lalatenduswain/API-Example
+   cd API-Example
    ```
 
 2. Import the databases:
